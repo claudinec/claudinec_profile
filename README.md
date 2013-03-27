@@ -1,5 +1,3 @@
-claudinec-drupal-build
-
 Installation profile, Drush makefile and scripts to assist in building a new Drupal site.
 
 This repository contains:
