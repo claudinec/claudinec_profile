@@ -12,4 +12,6 @@ This repository contains:
 
 * scripts/
 
-  Scripts for setting up Apache environment.
+  Scripts for setting up Apache environments for `dev`, `test`, and `prod`:
+  - Virtual host configuration
+  - Create web root directories

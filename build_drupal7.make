@@ -57,13 +57,13 @@ projects[diff][subdir] = "contrib"
 projects[diff][type] = "module"
 projects[diff][version] = "3.2"
 
-projects[disqus][subdir] = "contrib"
-projects[disqus][type] = "module"
-projects[disqus][version] = "1.9"
-
 projects[entity][subdir] = "contrib"
 projects[entity][type] = "module"
 projects[entity][version] = "1.0"
+
+projects[environment_indicator][subdir] = "contrib"
+projects[environment_indicator][type] = "module"
+projects[environment_indicator][version] = "1.1"
 
 projects[features][subdir] = "contrib"
 projects[features][type] = "module"
@@ -72,10 +72,6 @@ projects[features][version] = "1.0"
 projects[field_collection][subdir] = "contrib"
 projects[field_collection][type] = "module"
 projects[field_collection][version] = "1.0-beta5"
-
-projects[google_analytics][subdir] = "contrib"
-projects[google_analytics][type] = "module"
-projects[google_analytics][version] = "1.3"
 
 projects[markdown][subdir] = "contrib"
 projects[markdown][type] = "module"
@@ -100,10 +96,6 @@ projects[strongarm][version] = "2.0"
 projects[token][subdir] = "contrib"
 projects[token][type] = "module"
 projects[token][version] = "1.5"
-
-projects[xmlsitemap][subdir] = "contrib"
-projects[xmlsitemap][type] = "module"
-projects[xmlsitemap][version] = "2.0-rc2"
 
 projects[wysiwyg][subdir] = "contrib"
 projects[wysiwyg][type] = "module"
