@@ -2,11 +2,11 @@ Installation profile, Drush makefile and scripts to assist in building a new Dru
 
 This repository contains:
 
-* build_drupal7.make
+* drupal7_build.make
 
   Minimal Drush makefile for Drupal 7.
 
-* profiles/build_drupal7_profile/
+* profiles/drupal7_build_profile/
 
   Minimal installation profile for Drupal 7.
 
