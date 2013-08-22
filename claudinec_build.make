@@ -23,7 +23,7 @@ api = 2
 
 ; Drupal 7.x. Requires the `core` property to be set to 7.x.
 projects[drupal][type] = "core"
-projects[drupal][version] = "7.21"
+projects[drupal][version] = "7.23"
 
 
 ; Modules
@@ -35,7 +35,7 @@ projects[admin_menu][version] = "3.0-rc4"
 
 projects[backup_migrate][subdir] = "contrib"
 projects[backup_migrate][type] = "module"
-projects[backup_migrate][version] = "2.4"
+projects[backup_migrate][version] = "2.7"
 
 projects[boxes][subdir] = "contrib"
 projects[boxes][type] = "module"
@@ -43,7 +43,7 @@ projects[boxes][version] = "1.1"
 
 projects[ctools][subdir] = "contrib"
 projects[ctools][type] = "module"
-projects[ctools][version] = "1.2"
+projects[ctools][version] = "1.3"
 
 projects[date][subdir] = "contrib"
 projects[date][type] = "module"
@@ -59,15 +59,15 @@ projects[diff][version] = "3.2"
 
 projects[entity][subdir] = "contrib"
 projects[entity][type] = "module"
-projects[entity][version] = "1.0"
+projects[entity][version] = "1.1"
 
 projects[environment_indicator][subdir] = "contrib"
 projects[environment_indicator][type] = "module"
-projects[environment_indicator][version] = "1.1"
+projects[environment_indicator][version] = "2.0"
 
 projects[features][subdir] = "contrib"
 projects[features][type] = "module"
-projects[features][version] = "1.0"
+projects[features][version] = "2.0-rc1"
 
 projects[field_collection][subdir] = "contrib"
 projects[field_collection][type] = "module"
@@ -75,11 +75,11 @@ projects[field_collection][version] = "1.0-beta5"
 
 projects[markdown][subdir] = "contrib"
 projects[markdown][type] = "module"
-projects[markdown][version] = "1.1"
+projects[markdown][version] = "1.2"
 
 projects[module_filter][subdir] = "contrib"
 projects[module_filter][type] = "module"
-projects[module_filter][version] = "1.7"
+projects[module_filter][version] = "1.8"
 
 projects[profiler][subdir] = "contrib"
 projects[profiler][type] = "module"
@@ -87,7 +87,7 @@ projects[profiler][version] = "2.0-beta1"
 
 projects[stage_file_proxy][subdir] = "contrib"
 projects[stage_file_proxy][type] = "module"
-projects[stage_file_proxy][version] = "1.3"
+projects[stage_file_proxy][version] = "1.4"
 
 projects[strongarm][subdir] = "contrib"
 projects[strongarm][type] = "module"
