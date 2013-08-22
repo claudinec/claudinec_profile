@@ -6,10 +6,6 @@ This repository contains:
 
   Minimal Drush makefile for Drupal 7.
 
-* profiles/claudinec_build_profile/
-
-  Minimal installation profile for Drupal 7.
-
 * scripts/
 
   Scripts for setting up Apache environments for `dev`, `test`, and `prod`:
