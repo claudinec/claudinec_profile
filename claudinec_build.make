@@ -103,11 +103,15 @@ projects[wysiwyg][version] = "2.2"
 projects[wysiwyg][patch][] = "http://drupal.org/files/wysiwyg-support_v4_ckeditor-1853550-73.patch"
 
 ; Themes
-; --------
+; ------
 
 projects[adaptivetheme][subdir] = "contrib"
 projects[adaptivetheme][type] = "theme"
 projects[adaptivetheme][version] = "3.1"
+
+projects[omega][subdir] = "contrib"
+projects[omega][type] = "theme"
+projects[omega][version] = "4.0-beta7"
 
 ; Libraries
 ; ---------
