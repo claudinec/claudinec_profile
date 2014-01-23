@@ -101,6 +101,6 @@ libraries[ckeditor][download][type] = "file"
 libraries[ckeditor][download][url] = "http://download.cksource.com/CKEditor/CKEditor/CKEditor%204.3.2/ckeditor_4.3.2_full.tar.gz"
 
 libraries[profiler][type] = "libraries"
-libraries[profiler][download][type] = "get"
+libraries[profiler][download][type] = "file"
 libraries[profiler][download][url] = "http://ftp.drupal.org/files/projects/profiler-7.x-2.0-beta2.tar.gz"
 
