@@ -57,6 +57,12 @@ projects[environment_indicator][version] = "2.2"
 projects[features][type] = "module"
 projects[features][version] = "2.0"
 
+projects[google_analytics][type] = "module"
+projects[google_analytics][version] = "1.4"
+
+projects[google_analytics_reports][type] = "module"
+projects[google_analytics_reports][version] = "1.3"
+
 projects[markdown][type] = "module"
 projects[markdown][version] = "1.2"
 
