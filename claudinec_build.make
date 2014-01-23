@@ -63,6 +63,9 @@ projects[google_analytics][version] = "1.4"
 projects[google_analytics_reports][type] = "module"
 projects[google_analytics_reports][version] = "1.3"
 
+projects[honeypot][type] = "module"
+projects[honeypot][version] = "1.16"
+
 projects[markdown][type] = "module"
 projects[markdown][version] = "1.2"
 
