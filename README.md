@@ -1,17 +1,16 @@
-Installation profile, Drush makefile and scripts to assist in building a new Drupal site.
+Installation profile, Drush makefile, and scripts to assist in building a new Drupal site.
+
+Version 0.1.
 
 This repository contains:
 
-* build_drupal7.make
+  * `claudinec_build.make`
 
-  Minimal Drush makefile for Drupal 7.
+    Minimal Drush makefile for Drupal 7.
 
-* profiles/build_drupal7_profile/
+  * `bin/`
 
-  Minimal installation profile for Drupal 7.
+    Scripts for setting up Apache environments for `dev`, `test`, and `prod`:
 
-* scripts/
-
-  Scripts for setting up Apache environments for `dev`, `test`, and `prod`:
-  - Virtual host configuration
-  - Create web root directories
+    - Virtual host configuration
+    - Create web root directories
