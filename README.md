@@ -2,11 +2,11 @@ Installation profile, Drush makefile and scripts to assist in building a new Dru
 
 This repository contains:
 
-* claudinec_build.make
+* claudinec\_build.make
 
   Minimal Drush makefile for Drupal 7.
 
-* scripts/
+* bin/
 
   Scripts for setting up Apache environments for `dev`, `test`, and `prod`:
   - Virtual host configuration
